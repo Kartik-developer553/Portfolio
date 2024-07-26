@@ -5,7 +5,7 @@ const About = () => {
     <div name='about' className=" text-white w-full h-screen bg-gradient-to-b from-black to-gray-800">
         <div className='flex flex-col gap-3 justify-center h-full mx-auto max-w-screen-lg'>
         <div>
-            <p className='text-4xl font-bold '>about</p>
+            <p className='text-4xl font-bold '>About</p>
         </div>
         <p>
             Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facere doloremque dolore tempore dolorem nihil consequuntur corporis illum numquam hic cupiditate facilis commodi soluta animi consectetur aliquid et, delectus quae earum dolor fuga maxime quos? Maiores sed, temporibus in, illum suscipit eius maxime tempore cum quo placeat nihil quos corrupti ipsa!
